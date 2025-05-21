@@ -28,6 +28,7 @@ node -v
  ```bash
   cd playwright-introduction
   ```
+Open with code editor like VSCode (`code .`)
    ```bash
   npm install
   ```
@@ -37,6 +38,7 @@ node -v
 
 
 ## Add multiple test and open Pull Request
+- Add test to folder tests/* add to existing file or create new file.
 - `git checkout -b test/<your-name>`
 - `git add .`
 - `git commit -m "<sample message> login test case "`
